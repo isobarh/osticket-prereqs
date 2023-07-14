@@ -92,6 +92,16 @@ Password: osTicketPassword1! (for example/whatever you chose)
 
 ![Annotation 2023-07-12 222520](https://github.com/isobarh/osticket-prereqs/assets/139295370/54070083-08c6-42c4-95bb-7f2b208b6af0)
 
+-From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+
+Typical Setup -> 
+
+Launch Configuration Wizard (after install) -> 
+
+Standard Configuration ->
+
+Password1
+
 ![Annotation 2023-07-12 222604](https://github.com/isobarh/osticket-prereqs/assets/139295370/d0d4f3b0-b378-487b-95ad-ecc1d52167ad)
 
 ![Annotation 2023-07-12 222641](https://github.com/isobarh/osticket-prereqs/assets/139295370/ca5f3e85-cd91-4518-b6b3-6e4cffcf319e)
@@ -106,11 +116,49 @@ Password: osTicketPassword1! (for example/whatever you chose)
 
 ![Annotation 2023-07-12 223042](https://github.com/isobarh/osticket-prereqs/assets/139295370/4b6cc1f8-ad30-49a0-a4ff-48e79c8fb5bf)
 
+-Open IIS as an Admin
+
+-Register PHP from within IIS
+
+-Reload IIS (Open IIS, Stop and Start the server)
+
+
 ![Annotation 2023-07-12 223157](https://github.com/isobarh/osticket-prereqs/assets/139295370/73c0aa08-84ce-4095-8c25-7af2db2f1ced)
 
 ![Annotation 2023-07-12 223512](https://github.com/isobarh/osticket-prereqs/assets/139295370/d2c3760e-18f9-41d5-9a66-f3711f8350a6)
 
 ![Annotation 2023-07-12 223625](https://github.com/isobarh/osticket-prereqs/assets/139295370/a81915bf-1403-41c9-87e3-45f5c8c50115)
+
+-Install osTicket v1.15.8
+
+-Download osTicket from the Installation Files Folder
+
+-Extract and copy “upload” folder to c:\inetpub\wwwroot
+
+-Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+
+-Reload IIS (Open IIS, Stop and Start the server)
+
+-Go to sites -> Default -> osTicket
+
+-On the right, click “Browse *:80”
+
+-Note that some extensions are not enabled
+
+-Go back to IIS, sites -> Default -> osTicket
+
+-Double-click PHP Manager
+
+-Click “Enable or disable an extension”
+
+-Enable: php_imap.dll
+
+-Enable: php_intl.dll
+
+-Enable: php_opcache.dll
+
+-Refresh the osTicket site in your browse, observe the changes
+
 
 ![Annotation 2023-07-12 224210](https://github.com/isobarh/osticket-prereqs/assets/139295370/113dc03f-aca9-4f34-8772-b079d0409752)
 
@@ -171,26 +219,3 @@ Password: osTicketPassword1! (for example/whatever you chose)
 ![Screenshot 2023-07-14 141653](https://github.com/isobarh/osticket-prereqs/assets/139295370/2107490b-33f9-4d85-a5d0-8eeed07447a2)
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
