@@ -80,22 +80,67 @@ Password: osTicketPassword1! (for example/whatever you chose)
 
 ![Annotation 2023-07-12 223157](https://github.com/isobarh/osticket-prereqs/assets/139295370/73c0aa08-84ce-4095-8c25-7af2db2f1ced)
 
+![Annotation 2023-07-12 223512](https://github.com/isobarh/osticket-prereqs/assets/139295370/d2c3760e-18f9-41d5-9a66-f3711f8350a6)
 
+![Annotation 2023-07-12 223625](https://github.com/isobarh/osticket-prereqs/assets/139295370/a81915bf-1403-41c9-87e3-45f5c8c50115)
 
+![Annotation 2023-07-12 224210](https://github.com/isobarh/osticket-prereqs/assets/139295370/113dc03f-aca9-4f34-8772-b079d0409752)
 
+![Annotation 2023-07-12 224231](https://github.com/isobarh/osticket-prereqs/assets/139295370/f46b3590-bd23-4df9-a7c6-4a2319885fef)
 
+![Annotation 2023-07-12 224250](https://github.com/isobarh/osticket-prereqs/assets/139295370/05a08163-21c7-44a7-9e33-bb1c8d8327f9)
 
+![Annotation 2023-07-12 224313](https://github.com/isobarh/osticket-prereqs/assets/139295370/9f9bb22b-0edb-4a32-b52c-d08abd8af783)
 
+![Annotation 2023-07-12 224519](https://github.com/isobarh/osticket-prereqs/assets/139295370/f10cf505-d175-47af-a3a5-54eda5c95c69)
 
+![Annotation 2023-07-12 224558](https://github.com/isobarh/osticket-prereqs/assets/139295370/e93fb340-d041-4816-b00f-2c482e8016ef)
 
+![Annotation 2023-07-12 224646](https://github.com/isobarh/osticket-prereqs/assets/139295370/d7009fdc-e9ad-42e1-b28b-ffb85c5d25c7)
 
+![Annotation 2023-07-12 224709](https://github.com/isobarh/osticket-prereqs/assets/139295370/06114ab5-0ced-466b-b3c5-02c0b7462e0d)
 
+![Annotation 2023-07-12 224927](https://github.com/isobarh/osticket-prereqs/assets/139295370/8b544d47-bc50-4ba8-8206-625781e31126)
 
+![Annotation 2023-07-12 225110](https://github.com/isobarh/osticket-prereqs/assets/139295370/2a38e810-322f-4651-83ca-d823bb0b46ff)
 
+![Annotation 2023-07-12 225237](https://github.com/isobarh/osticket-prereqs/assets/139295370/8c64565b-a23a-4102-bf70-d8965a0fc0b6)
 
+![Annotation 2023-07-12 225355](https://github.com/isobarh/osticket-prereqs/assets/139295370/76bab04a-ae31-4971-a55d-c2cfc14af70c)
 
+![Annotation 2023-07-12 225757](https://github.com/isobarh/osticket-prereqs/assets/139295370/85b7572e-d418-404d-a986-4b32e8a4c6f3)
 
+![Annotation 2023-07-12 225818](https://github.com/isobarh/osticket-prereqs/assets/139295370/1421525f-a007-431a-a3e9-ac4fd7d77ffb)
 
+![Screenshot 2023-07-12 230935](https://github.com/isobarh/osticket-prereqs/assets/139295370/05040f06-5929-4659-b55e-6196d8215082)
+
+![Screenshot 2023-07-12 231040](https://github.com/isobarh/osticket-prereqs/assets/139295370/9cd808e3-60ce-449c-b24c-4eee040171fc)
+
+![Screenshot 2023-07-12 231731](https://github.com/isobarh/osticket-prereqs/assets/139295370/3889bb40-24e5-457b-a107-b506997226df)
+
+![Screenshot 2023-07-12 231959](https://github.com/isobarh/osticket-prereqs/assets/139295370/867d7ab6-106e-4f76-99c0-7c23b5c9231b)
+
+![Screenshot 2023-07-12 232105](https://github.com/isobarh/osticket-prereqs/assets/139295370/425e59e9-6774-4701-9267-1c102805da9f)
+
+![Screenshot 2023-07-12 232707](https://github.com/isobarh/osticket-prereqs/assets/139295370/1394c30c-8980-4355-995c-5551bc67ea63)
+
+![Screenshot 2023-07-12 233006](https://github.com/isobarh/osticket-prereqs/assets/139295370/bc802069-723c-49b4-9ea2-1ae735e7d580)
+
+![Screenshot 2023-07-12 233206](https://github.com/isobarh/osticket-prereqs/assets/139295370/073d0075-2c75-42de-ab93-0aad34a6e104)
+
+![Screenshot 2023-07-12 233429](https://github.com/isobarh/osticket-prereqs/assets/139295370/a6fb71c6-bf2d-4679-94aa-9dddfaeec38d)
+
+![Screenshot 2023-07-12 234119](https://github.com/isobarh/osticket-prereqs/assets/139295370/13b2ccd7-b185-4c33-a4e0-c635a35d0a74)
+
+![Screenshot 2023-07-12 234216](https://github.com/isobarh/osticket-prereqs/assets/139295370/21b387d9-985b-4bf2-bb03-d4f7032aa8c7)
+
+![Screenshot 2023-07-12 235059](https://github.com/isobarh/osticket-prereqs/assets/139295370/2c960ab2-b3bc-4568-baa0-27dd8d23c187)
+
+![Screenshot 2023-07-14 140759](https://github.com/isobarh/osticket-prereqs/assets/139295370/54c0683a-5362-4518-9745-f98ab1e7c744)
+
+![Screenshot 2023-07-14 141158](https://github.com/isobarh/osticket-prereqs/assets/139295370/5be29da0-d75b-4649-9cd4-46abd9648fc9)
+
+![Screenshot 2023-07-14 141653](https://github.com/isobarh/osticket-prereqs/assets/139295370/2107490b-33f9-4d85-a5d0-8eeed07447a2)
 
 
 <p>
