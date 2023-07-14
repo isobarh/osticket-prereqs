@@ -188,9 +188,21 @@ Password1
 
 ![Annotation 2023-07-12 225818](https://github.com/isobarh/osticket-prereqs/assets/139295370/1421525f-a007-431a-a3e9-ac4fd7d77ffb)
 
+-Rename: ost-config.php
+
+-From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+
+-To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
 ![Screenshot 2023-07-12 230935](https://github.com/isobarh/osticket-prereqs/assets/139295370/05040f06-5929-4659-b55e-6196d8215082)
 
 ![Screenshot 2023-07-12 231040](https://github.com/isobarh/osticket-prereqs/assets/139295370/9cd808e3-60ce-449c-b24c-4eee040171fc)
+
+-Assign Permissions: ost-config.php
+
+-Disable inheritance -> Remove All
+
+-New Permissions -> Everyone -> All
 
 ![Screenshot 2023-07-12 231731](https://github.com/isobarh/osticket-prereqs/assets/139295370/3889bb40-24e5-457b-a107-b506997226df)
 
@@ -198,7 +210,24 @@ Password1
 
 ![Screenshot 2023-07-12 232105](https://github.com/isobarh/osticket-prereqs/assets/139295370/425e59e9-6774-4701-9267-1c102805da9f)
 
+-Continue Setting up osTicket in the browser (click Continue)
+
+-Name Helpdesk
+
+-Default email (receives email from customers)
+
 ![Screenshot 2023-07-12 232707](https://github.com/isobarh/osticket-prereqs/assets/139295370/1394c30c-8980-4355-995c-5551bc67ea63)
+
+-From the Installation Files, download and install HeidiSQL.
+
+-Open Heidi SQL
+
+-Create a new session, root/Password1
+
+-Connect to the session
+
+-Create a database called “osTicket”
+
 
 ![Screenshot 2023-07-12 233006](https://github.com/isobarh/osticket-prereqs/assets/139295370/bc802069-723c-49b4-9ea2-1ae735e7d580)
 
@@ -206,13 +235,41 @@ Password1
 
 ![Screenshot 2023-07-12 233429](https://github.com/isobarh/osticket-prereqs/assets/139295370/a6fb71c6-bf2d-4679-94aa-9dddfaeec38d)
 
-![Screenshot 2023-07-12 234119](https://github.com/isobarh/osticket-prereqs/assets/139295370/13b2ccd7-b185-4c33-a4e0-c635a35d0a74)
-
-![Screenshot 2023-07-12 234216](https://github.com/isobarh/osticket-prereqs/assets/139295370/21b387d9-985b-4bf2-bb03-d4f7032aa8c7)
-
 ![Screenshot 2023-07-12 235059](https://github.com/isobarh/osticket-prereqs/assets/139295370/2c960ab2-b3bc-4568-baa0-27dd8d23c187)
 
 ![Screenshot 2023-07-14 140759](https://github.com/isobarh/osticket-prereqs/assets/139295370/54c0683a-5362-4518-9745-f98ab1e7c744)
+
+-Continue Setting up osticket in the browser
+
+-MySQL Database: osTicket
+
+-MySQL Username: root
+
+-MySQL Password: Password1
+
+-Click “Install Now!”
+
+![Screenshot 2023-07-12 234119](https://github.com/isobarh/osticket-prereqs/assets/139295370/13b2ccd7-b185-4c33-a4e0-c635a35d0a74)
+
+-Congratulations, hopefully it is installed with no errors!
+
+-Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+
+-End Users osTicket URL:http://localhost/osTicket/ 
+
+-Clean up
+
+-Delete: C:\inetpub\wwwroot\osTicket\setup
+
+-Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+-Notes:
+
+-Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+
+-End Users osTicket URL: http://localhost/osTicket/ 
+
+![Screenshot 2023-07-12 234216](https://github.com/isobarh/osticket-prereqs/assets/139295370/21b387d9-985b-4bf2-bb03-d4f7032aa8c7)
 
 ![Screenshot 2023-07-14 141158](https://github.com/isobarh/osticket-prereqs/assets/139295370/5be29da0-d75b-4649-9cd4-46abd9648fc9)
 
