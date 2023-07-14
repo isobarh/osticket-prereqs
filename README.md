@@ -37,6 +37,19 @@ Password: osTicketPassword1! (for example/whatever you chose)
 
 
 <h2>Installation Steps</h2>
+<p>
+  -Install / Enable IIS in Windows WITH CGI and Common HTTP Features
+
+  World Wide Web Services -> Application Development Features ->
+  [X] CGI
+  [X] Common HTTP Features
+
+-AND IIS Management Console
+
+  Internet Information Services -> Web Management Tools -> IIS Management Console
+	[X] IIS Management Console
+ </p>
+<br />
 
 ![Annotation 2023-07-12 215814](https://github.com/isobarh/osticket-prereqs/assets/139295370/d4a96a64-d0f1-47c0-9f66-cbad64a5112b)
 
@@ -50,15 +63,30 @@ Password: osTicketPassword1! (for example/whatever you chose)
 
 ![Annotation 2023-07-12 221021](https://github.com/isobarh/osticket-prereqs/assets/139295370/597be610-8e24-4ecf-9a48-d4edb0efd0f8)
 
+
+-download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+
+
 ![Annotation 2023-07-12 221539](https://github.com/isobarh/osticket-prereqs/assets/139295370/5c039bba-ed2a-4f3e-8693-b5cf03ea56d8)
+
+
+-download and install the Rewrite Module (rewrite_amd64_en-US.msi)
+
 
 ![Annotation 2023-07-12 221704](https://github.com/isobarh/osticket-prereqs/assets/139295370/882d403b-e8e6-41cc-945a-3bbd225e9f99)
 
+
+-Create the directory C:\PHP
+
 ![Annotation 2023-07-12 221944](https://github.com/isobarh/osticket-prereqs/assets/139295370/a8fc594e-c9d0-4c6d-a211-81d155cfc9b8)
+
+-From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
 
 ![Annotation 2023-07-12 222115](https://github.com/isobarh/osticket-prereqs/assets/139295370/7423c733-fd92-45a7-82e6-d42e37622414)
 
 ![Annotation 2023-07-12 222257](https://github.com/isobarh/osticket-prereqs/assets/139295370/e7ef52a3-6e29-4339-820f-afca86b92582)
+
+-From the Installation Files, download and install VC_redist.x86.exe.
 
 ![Annotation 2023-07-12 222429](https://github.com/isobarh/osticket-prereqs/assets/139295370/7cd1e34d-e648-4785-8608-da05a3ed9813)
 
